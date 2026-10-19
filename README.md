@@ -2,8 +2,6 @@
 
 Computer Science student at **FINKI** (Faculty of Computer Science and Engineering, Skopje).
 
-I'm looking for my first role in **backend or frontend development**, and I'm especially interested in **cybersecurity**.
-
 ### Tech I've worked with
 
 - **Languages:** Java · C / C++ · Python · SQL · JavaScript · Shell
